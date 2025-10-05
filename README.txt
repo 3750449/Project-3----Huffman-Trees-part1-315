@@ -83,7 +83,7 @@ again
 ### Status
 
 - **All required functionality complete.**
-- **Tokenization verified** against the sample reference outputs on *blue.cs.sonoma.edu* using `diff`
+- **Tokenization verified** against the sample reference 
 
 ---
 
