@@ -16,7 +16,7 @@
 ## Implementation Details
 
 This project implements **Part 1 of Project 3 — the Scanner module** of the Huffman Coding pipeline
-It tokenizes text files into normalized ASCII words following the project’s tokenization rules
+It tokenizes text files into normalized ASCII words
 
 ### Files Implemented
 
@@ -102,4 +102,5 @@ make
 
 diff -u input_output/call_of_the_wild.tokens \
 /home/faculty/kooshesh/cs315_f2025_p3_part1/part1_tokens_files/call_of_the_wild.tokens
+
 
